@@ -30,7 +30,7 @@ github.com/docker/cli/cli/context/store
 ## explicit
 github.com/docker/distribution/digestset
 github.com/docker/distribution/reference
-# github.com/docker/docker v20.10.27-0.20230918140811-29a0e76e6495+incompatible
+# github.com/docker/docker v24.0.9+incompatible
 ## explicit
 github.com/docker/docker/api
 github.com/docker/docker/api/types
@@ -222,8 +222,8 @@ github.com/xo/terminfo
 # golang.org/x/exp v0.0.0-20220428152302-39d4317da171
 ## explicit; go 1.18
 golang.org/x/exp/constraints
-# golang.org/x/net v0.17.0
-## explicit; go 1.17
+# golang.org/x/net v0.23.0
+## explicit; go 1.18
 golang.org/x/net/internal/socks
 golang.org/x/net/proxy
 # golang.org/x/sys v0.20.0
